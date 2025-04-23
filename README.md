@@ -12,7 +12,7 @@ Một console game đa trò chơi được xây dựng với ESP32 và màn hìn
 ## Yêu cầu phần cứng
 - Board ESP32
 - Màn hình OLED SH1106
-- 2 nút điều khiển
+- 4 nút điều khiển
 - Pin để cấp nguồn
 
 ## Được xây dựng với
